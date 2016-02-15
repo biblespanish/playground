@@ -1,5 +1,4 @@
 # playground
-Practice Tinkering
 
 <html>
   <body>
