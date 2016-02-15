@@ -15,25 +15,25 @@ Practice Tinkering
     llenar de pan las tinieblas,<br>
     fundar otra vez la esperanza.<br></p>
 
-    <p>No es para mí sino el polvo,<br>
-    la lluvia cruel de la estación,<br>
-    no me reservo nada<br>
-    sino todo el espacio<br>
-    y allí trabajar, trabajar,<br>
-    manifestar la primavera.<br></p>
+  <p>No es para mí sino el polvo,<br>
+  la lluvia cruel de la estación,<br>
+  no me reservo nada<br>
+  sino todo el espacio<br>
+  y allí trabajar, trabajar,<br>
+  manifestar la primavera.<br></p>
 
-    <p>A todos tengo que dar algo<br>
-    cada semana y cada día,<br>
-    un regalo de color azul,<br>
-    un pétalo frío del bosque,<br>
-    y ya de mañana estoy vivo<br>
-    mientras los otros se sumergen<br>
-    en la pereza, en el amor,<br>
-    yo estoy limpiando mi campana,<br>
-    mi corazón, mis herramientas.<br></p>
+  <p>A todos tengo que dar algo<br>
+  cada semana y cada día,<br>
+  un regalo de color azul,<br>
+  un pétalo frío del bosque,<br>
+  y ya de mañana estoy vivo<br>
+  mientras los otros se sumergen<br>
+  en la pereza, en el amor,<br>
+  yo estoy limpiando mi campana,<br>
+  mi corazón, mis herramientas.<br></p>
 
-    <p>Tengo rocío para todos.<br></p>
+  <p>Tengo rocío para todos.<br></p>
 
-    <p>~ Pablo Neruda</b></p>
+  <p>~ Pablo Neruda</p>
   </body>
 </html>
