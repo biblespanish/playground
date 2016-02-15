@@ -4,7 +4,7 @@ Practice Tinkering
 <html>
   <body>
     <h1><a href="http://www.poemas-del-alma.com/pablo-neruda-a-mis-obligaciones.htm">A mis obligaciones</a></h1>
-    <p style="text-align:center">Cumpliendo con mi oficio<br>
+    <p><em style="text-align:center">Cumpliendo con mi oficio</em><br>
     piedra con piedra, pluma a pluma,<br>
     pasa el invierno y deja<br>
     sitios abandonados,<br>
